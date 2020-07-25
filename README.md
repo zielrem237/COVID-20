@@ -9,7 +9,7 @@ ___
 - 포스트 코로나와 산업
 ___
 ### 사용 데이터
-데이터의 해당 Column에 대한 설명은 document에 정리
+데이터의 해당 Column에 대한 자세한 명은 document에 정리
 
 - DACON 코로나 시각화 경진대회 데이터
   https://dacon.io/competitions/official/235590/data/ (해당링크에서 다운로드 가능)
