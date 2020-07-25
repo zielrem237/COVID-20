@@ -2,7 +2,7 @@
 AI큐레이터과정 *[집에가서생각하자]* 팀  Project,  코로나19관련 데이터분석 및 시각화
 ___
 ![athome](https://user-images.githubusercontent.com/38834523/88453655-ee3a2300-cea3-11ea-9029-95f941538987.PNG)
-<img src="https://user-images.githubusercontent.com/38834523/88453655-ee3a2300-cea3-11ea-9029-95f941538987.PNG", width=50%, height=50%>
+<img src="https://user-images.githubusercontent.com/38834523/88453655-ee3a2300-cea3-11ea-9029-95f941538987.PNG" width=50% height=50%>
 
 ### 프로젝트 주제
 - 코로나 바이러스 취약계층 분석
