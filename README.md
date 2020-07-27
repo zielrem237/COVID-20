@@ -21,7 +21,18 @@ ___
    https://github.com/CSSEGISandData/COVID-19
  ___
  ### 구성
+ 상위 폴더
+  - vulnerable_analysis folder : 국내의 코로나 바이러스 취약계층 분석 내용
+  - post_corona folder : 포스트 코로나와 산업 분석 내용
+  - policy_patient folder : 국내외 코로나 관련 정책 및 환자 추이 분석 내용
  
+ 하위 폴더
+  - visualization : 시각화 결과
+  - img : 코드 캡처 및 기타 이미지
+  - data : 사용 데이터 파일
+  
+  - ./policy_patient/foreign : 외국의 코로나 관련 정책 및 환자 추이 분석 내용
+  - ./policy_patient/domestic : 국내의 코로나 관련 정책 및 환자 추이 분석 내용
 
   
 
